@@ -1,3 +1,3 @@
 # Just-Java
 App for ordering coffee
-//requires build
+//requires build and error fixing :
